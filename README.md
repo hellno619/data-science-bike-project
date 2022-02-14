@@ -1,1 +1,1 @@
-# data-science-bike-project
+# data-science-bike rental-project
